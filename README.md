@@ -76,7 +76,7 @@ Ancak dikkat: *Kralın ölürse oyun biter.*
 ## 🚀 İndir & Oyna
 
 Oyun Itch.io üzerinden oynanabilir:  
-👉 https://your-itch-page-link-here
+👉 [Itch.io Sayfası](https://mekamuto.itch.io/chess-reborn)
 
 ---
 
